@@ -8,3 +8,4 @@ Stahni nugety System.Data.SqlClient;
 using Newtonsoft.Json;
 using Microsoft.EntityFrameworkCore;
 using CsvHelper;
+json si ulozte tam kde mate projekt
